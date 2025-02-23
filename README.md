@@ -20,9 +20,9 @@ Link to the project on Figma (https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/
 All images can be located in the zip file attched
 [text](images.zip) here.
 
-![alt text]({C31798FC-7CCF-403A-9205-1D5894990096}.png)
+![alt text](./images/{C31798FC-7CCF-403A-9205-1D5894990096}-min.png)
 
-![alt text]({E87AE9C7-A34D-4A61-9F7A-469EB48B1C58}.png)
+![alt text](./images/{E87AE9C7-A34D-4A61-9F7A-469EB48B1C58}-min.png)
 
 ## Deployment
 
