@@ -24,7 +24,9 @@ All images can be located in the zip file attched
 
 ![alt text](./images/{E87AE9C7-A34D-4A61-9F7A-469EB48B1C58}-min.png)
 
+### Video
 
+[Watch the Video](https://drive.google.com/uc?id=13yGEbNspHQeap3VkE8XcI158ga2uQPsQ&export=download)
 
 ## Deployment
 
