@@ -12,6 +12,7 @@
 }
 
 .card__content {
+  margin-top: 12px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -45,7 +46,6 @@
 }
 
 .card__like-button:hover {
-  color: #212121;
   cursor: pointer;
   opacity: 1;
 }
